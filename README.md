@@ -1,2 +1,1 @@
-# hello-world
-# my name is arya menon
+# lab_1
